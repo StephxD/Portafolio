@@ -1,0 +1,34 @@
+﻿#foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+.seccion_bienvenida{ /*cambia color del cuadro del texto y pone color blanco*/
+margin: 5rem 0 10rem 0;
+color:white;
+}
+.seccion_bienvenida h1 { /*espacio*/
+    margin-bottom 1rem;
+}
+.seccion_bienvenida p { /*Ajustar parrafo, tipo de letra y tama;o*/
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+#imagen-dotnet{ /*Hace peque;o la imagen de .net*/
+    width:500px;
+}
+
+.cabecera { /*pone negrita en los titulos*/
+    font-weight:bold;
+}
+
+.habilidades ul{ /*Quita los puntos de las listas*/
+    list-style:none;
+    padding-left: 0;
+}
+.habilidades i{
+    color:aqua;
+    font-size:50px;
+
+}

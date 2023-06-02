@@ -1,0 +1,88 @@
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\stefa\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\stefa\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\Steph\source\repos\MVC\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\Steph\source\repos\MVC 6 Udemy\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
